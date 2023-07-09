@@ -1,2 +1,2 @@
 # Image-cloud
-图床
+pic
